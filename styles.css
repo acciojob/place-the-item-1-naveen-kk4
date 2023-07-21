@@ -1,13 +1,13 @@
 
 /* Your CSS Code here. */
-.flex-container{
+.holder{
 	display:flex;
 	justify-content:space-between;
 	flex-wrap:wrap;
 	
 	
 }
-.flex-container div{
+.holder div{
 	width:120px;
 	height:120px;
 	background-color:green;
